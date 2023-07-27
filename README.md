@@ -9,7 +9,7 @@ TODO look into how to pull this into netboot and custom menus.
 
 ```
 cd kickstartdir
-python -m http.server
+python -m http.server 80
 ```
 
 ## netboot notes
